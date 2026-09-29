@@ -1,0 +1,21 @@
+{
+	"name": "demo-adf-indiraa",
+	"properties": {
+		"globalParameters": {
+			"email_recipients": {
+				"type": "string",
+				"value": "indiraakumar1617@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4fcce0bf-f183-4c51-8592-5ee9a355a8a7",
+		"tenantId": "df5f524d-b22d-412a-858b-48487eb9557c"
+	}
+}
