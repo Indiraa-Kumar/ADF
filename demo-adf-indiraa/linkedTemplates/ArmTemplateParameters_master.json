@@ -5,9 +5,6 @@
 		"factoryName": {
 			"value": "demo-adf-indiraa"
 		},
-		"LS_SQL_SERVER_password": {
-			"value": ""
-		},
 		"LS_ADLS_properties_typeProperties_url": {
 			"value": "https://indiraastorageaccount.dfs.core.windows.net/"
 		},
@@ -22,6 +19,9 @@
 		},
 		"TGR_EVENT_SIMPLE_properties_typeProperties_scope": {
 			"value": "/subscriptions/5f613252-91ec-4c16-963f-89010cb421a8/resourceGroups/rg_test/providers/Microsoft.Storage/storageAccounts/indiraastorageaccount"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://demo-kv-indiraa.vault.azure.net/"
 		},
 		"containerUri": {
 			"value": ""
